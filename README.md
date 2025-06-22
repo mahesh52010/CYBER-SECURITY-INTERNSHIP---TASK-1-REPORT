@@ -1,5 +1,6 @@
 
 📄 Web Application Security Testing Report
+
 🛡️ Overview
 This repository contains a detailed report of Task 1 from the Cyber Security Internship, which focuses on Web Application Security Testing using DVWA (Damn Vulnerable Web Application). The report documents hands-on exploitation of common vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and Brute Force Attacks.
 
