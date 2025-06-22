@@ -3,7 +3,7 @@
 
 ✅ **Cyber Security Internship – Task 1**  
 > Authored by: [Yandrapu Mahesh](https://www.linkedin.com/in/mahesh-yandrapu-3337b825a)  
-> 🔗 GitHub Repo: [CYBER-SECURITY-INTERNSHIP---TASK-1-REPORT](https://github.com/mahesh52010/CYBER-SECURITY-INTERNSHIP---TASK-1-REPORT)
+> 🔗 GitHub Repo: [FUTURE_CS_01](https://github.com/mahesh52010/FUTURE_CS_01)
 
 This repository presents a comprehensive security testing report for a sample web application using **DVWA (Damn Vulnerable Web Application)**. The goal was to identify and exploit common vulnerabilities in a controlled lab setup to better understand web security threats and countermeasures.
 
